@@ -1,0 +1,11 @@
+﻿  Bingo.cpp
+c:\users\kapoo\onedrive\문서\visual studio 2017\projects\lesson6_homework\lesson6_homework\bingo.cpp(24): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kapoo\onedrive\문서\visual studio 2017\projects\lesson6_homework\lesson6_homework\bingo.cpp(28): warning C4101: 'shuffle2' :참조되지 않은 지역 변수입니다.
+c:\users\kapoo\onedrive\문서\visual studio 2017\projects\lesson6_homework\lesson6_homework\bingo.cpp(28): warning C4101: 'shuffle4' :참조되지 않은 지역 변수입니다.
+c:\users\kapoo\onedrive\문서\visual studio 2017\projects\lesson6_homework\lesson6_homework\bingo.cpp(28): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+c:\users\kapoo\onedrive\문서\visual studio 2017\projects\lesson6_homework\lesson6_homework\bingo.cpp(26): warning C4101: 'playerSetN' :참조되지 않은 지역 변수입니다.
+c:\users\kapoo\onedrive\문서\visual studio 2017\projects\lesson6_homework\lesson6_homework\bingo.cpp(28): warning C4101: 'shuffle1' :참조되지 않은 지역 변수입니다.
+c:\users\kapoo\onedrive\문서\visual studio 2017\projects\lesson6_homework\lesson6_homework\bingo.cpp(28): warning C4101: 'shuffle3' :참조되지 않은 지역 변수입니다.
+c:\users\kapoo\onedrive\문서\visual studio 2017\projects\lesson6_homework\lesson6_homework\bingo.cpp(198): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Lesson6_Homework.vcxproj -> C:\Users\kapoo\onedrive\문서\visual studio 2017\Projects\Lesson6_Homework\Debug\Lesson6_Homework.exe
+  Lesson6_Homework.vcxproj -> C:\Users\kapoo\onedrive\문서\visual studio 2017\Projects\Lesson6_Homework\Debug\Lesson6_Homework.pdb (Partial PDB)
